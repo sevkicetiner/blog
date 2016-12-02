@@ -4,8 +4,8 @@ error_reporting(E_ALL);
 ini_set("display_errors", 1);
 include './twitteroauth/twitteroauth.php';
 
-$consumer_key="q6YK5rhpaX4kaSkS8TNr0VlbL";
-$consumer_secret="zqCPx61AOPzwepuNpZgkPtwxkm3fTpsXd5A59l8kXl3XoeqHsn";
+$consumer_key="......";
+$consumer_secret="......";
 
 
 $access_token="3133576766-OmdMEci02trjowJYzfJ3h9Pv3jTcqx0QNsIB2PC";
