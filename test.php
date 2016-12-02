@@ -8,8 +8,8 @@ $consumer_key="......";
 $consumer_secret="......";
 
 
-$access_token="3133576766-OmdMEci02trjowJYzfJ3h9Pv3jTcqx0QNsIB2PC";
-$access_token_secret="yiDVqsE4AqSPJZVFNhkuwJBP2gWaKfKrHIwKuhvckGkFW";
+$access_token="........";
+$access_token_secret="............";
 
 $twitter=new TwitterOAuth($consumer_key,$consumer_secret,$access_token,$access_token_secret);
 $tweets=$twitter->get("https://api.twitter.com/1.1/search/tweets.json?q=%23sondakika&result_type=popular&count=20"); //%23=#   ondan sonraki parametre de hastag 
