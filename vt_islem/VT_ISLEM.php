@@ -3,7 +3,7 @@
 
 
 
-$vt= new mysqli("160.153.153.40","elec3708991105","Q)5ALDeEw{","elec3708991105");//zW2o6HeCyBYJeU7h
+$vt= new mysqli(".....",".....",".....","....");//zW2o6HeCyBYJeU7h
 $vt->set_charset("UTF8");
 
 
